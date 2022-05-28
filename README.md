@@ -22,10 +22,11 @@ Currently polishing web development skills.
 ![](https://aleen42.github.io/badges/src/html.svg)
 <br>
 <br>
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhitec)
+-->
 
-
-### Contact
+### Hit me up at
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vnikolin@latino-mind.com?subject=Hey!)<br>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnikolin/)<br>
 
