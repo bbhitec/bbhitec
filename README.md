@@ -13,9 +13,6 @@ Currently polishing web development skills.
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
-![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br>
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
 ![](https://aleen42.github.io/badges/src/illustrator.svg)
 ![](https://aleen42.github.io/badges/src/premiere.svg)
