@@ -1,45 +1,31 @@
-# Hi there 👋
-
+# Hi there 👋 I'm Vladimir
+**Software Engineer**<br>
 In this space I learn and practice my code.<br>
-Currently polishing web development skills.
-
-### Grinding skills stack
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<br>
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<br>
-<!--
-![](https://aleen42.github.io/badges/src/photoshop.svg)
-![](https://aleen42.github.io/badges/src/illustrator.svg)
-![](https://aleen42.github.io/badges/src/premiere.svg)
-![](https://aleen42.github.io/badges/src/html.svg)
-<br>
+Currently polishing my full stack web apps development skills.
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhitec)
--->
+## Grinding skills stack
 
-### Hit me up at
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vnikolin@latino-mind.com?subject=Hey!)<br>
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnikolin/)<br>
+![](https://shields.io/badge/-python-339?logo=python)
+![](https://shields.io/badge/-node.js-339?logo=node.js)
+![](https://shields.io/badge/-react-339?logo=react)
+![](https://shields.io/badge/-tailwind-339?logo=tailwindcss)
+![](https://shields.io/badge/-bootstrap-339?logo=bootstrap)
+
+![](https://shields.io/badge/-asp.net-339?logo=dotnet)
+![](https://shields.io/badge/-csharp-339?logo=csharp)
+![](https://shields.io/badge/-azure-339?logo=microsoftazure)
+![](https://shields.io/badge/-django-339?logo=django)
+![](https://shields.io/badge/-postgresql-339?logo=postgresql)
 
 
-<!--
-**bbhitec/bbhitec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://shields.io/badge/-next.js-339?logo=next.js)
+![](https://shields.io/badge/-vercel-339?logo=vercel)
+![](https://shields.io/badge/-npm-339?logo=npm)
+![](https://shields.io/badge/-github%20actions-339?logo=githubactions)
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hit me up!
+For my services, collabs and live projects, check out my [🌐 portfolio page](https://www.vnikolin.com/)<br><br>
+[![email](https://shields.io/badge/-linkedin-lightgrey?logo=linkedin)](mailto:vnikolin@latino-mind.com?subject=Hey!)
+[![linkedin](https://shields.io/badge/-email-lightgrey?logo=gmail)](https://www.linkedin.com/in/vnikolin/)<br>
