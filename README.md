@@ -18,11 +18,8 @@ Currently polishing my full stack web apps development skills.
 ![](https://shields.io/badge/-azure-339?logo=microsoftazure)
 ![](https://shields.io/badge/-django-339?logo=django)
 
-![](https://shields.io/badge/-postgresql-339?logo=postgresql)
+![](https://shields.io/badge/-sqlite-339?logo=sqlite)
 ![](https://shields.io/badge/-next.js-339?logo=next.js)
-![](https://shields.io/badge/-vercel-339?logo=vercel)
-
-![](https://shields.io/badge/-npm-339?logo=npm)
 ![](https://shields.io/badge/-github%20actions-339?logo=githubactions)
 <br>
 
