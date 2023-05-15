@@ -26,5 +26,5 @@ Currently polishing my full stack web apps development skills.
 ## Hit me up!
 For my services, collabs and live projects, check out my [🌐 portfolio page](https://www.vnikolin.com/)<br><br>
 Contact: 
-[![email](https://shields.io/badge/-linkedin-lightgrey?logo=linkedin)](mailto:vnikolin@latino-mind.com?subject=Hey!)
-[![linkedin](https://shields.io/badge/-email-lightgrey?logo=gmail)](https://www.linkedin.com/in/vnikolin/)<br>
+[![linkedin](https://shields.io/badge/-linkedin-lightgrey?logo=linkedin)](https://www.linkedin.com/in/vnikolin/)
+[![email](https://shields.io/badge/-email-lightgrey?logo=gmail)](mailto:vnikolin@latino-mind.com?subject=Hey!)<br>
