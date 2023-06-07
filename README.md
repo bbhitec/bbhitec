@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vladimir
 **B.Sc. Software Engineer**<br><br>
-In this space I learn and practice my code.<br>
-Currently polishing my full stack web apps development skills.
+In this space I practice my code and present some client works<br>
+Currently polishing my full stack and ML development skills.
 <br>
 
 ## Grinding skills stack
@@ -10,11 +10,7 @@ Currently polishing my full stack web apps development skills.
 ![](https://shields.io/badge/-node.js-339?logo=node.js)
 ![](https://shields.io/badge/-react-339?logo=react)
 
-![](https://shields.io/badge/-tailwind-339?logo=tailwindcss)
-![](https://shields.io/badge/-bootstrap-339?logo=bootstrap)
 ![](https://shields.io/badge/-asp.net-339?logo=dotnet)
-
-![](https://shields.io/badge/-csharp-339?logo=csharp)
 ![](https://shields.io/badge/-azure-339?logo=microsoftazure)
 ![](https://shields.io/badge/-django-339?logo=django)
 
