@@ -1,31 +1,22 @@
 # Hi there 👋 I'm Vladimir
-**B.Sc. Software Engineer**<br>
-In this space I practice my code and present some client derived work<br>
-Currently polishing my Fullstack and ML development skills.
+
+*B.Sc. Software Engineer*
 <br>
-
-## Grinding skills stack
-
-![](https://shields.io/badge/-python-339?logo=python)
-![](https://shields.io/badge/-node.js-339?logo=node.js)
-![](https://shields.io/badge/-react-339?logo=react)
-![](https://shields.io/badge/-tailwind-339?logo=tailwindcss)
-![](https://shields.io/badge/-next.js-339?logo=next.js)
-
-![](https://shields.io/badge/-asp.net-339?logo=dotnet)
-![](https://shields.io/badge/-azure-339?logo=microsoftazure)
-![](https://shields.io/badge/-django-339?logo=django)
-![](https://shields.io/badge/-bootstrap-339?logo=bootstrap)
-
-![](https://shields.io/badge/-cpp-339?logo=cplusplus)
-![](https://shields.io/badge/-csharp-339?logo=csharp)
-![](https://shields.io/badge/-sqlite-339?logo=sqlite)
-![](https://shields.io/badge/-github%20actions-339?logo=githubactions)
+I develop web apps and custom software with an emphasis on pleasant visuals and efficient interaction. In this space, I practice my code and present some of my work. Currently polishing my FullStack skills.
 <br>
 
 ## Hit me up!
-For my services, collabs and live projects, check out my [🌐 portfolio page](https://www.vnikolin.com/)<br>
+For service inquiries, collabs and live projects, Check out my [![protfolio](https://shields.io/badge/-🌐portfolio-grey)](https://www.vnikolin.com/)  
+Or contact me via: [![linkedin](https://shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/vnikolin/), [![email](https://shields.io/badge/-email-grey?logo=gmail)](mailto:vnikolin@latino-mind.com?subject=Hey!)
 <br>
-Contact: 
-[![linkedin](https://shields.io/badge/-linkedin-lightgrey?logo=linkedin)](https://www.linkedin.com/in/vnikolin/)
-[![email](https://shields.io/badge/-email-lightgrey?logo=gmail)](mailto:vnikolin@latino-mind.com?subject=Hey!)<br>
+
+## Grinding Stack
+
+![](https://shields.io/badge/-react-4377cb?logo=react)
+![](https://shields.io/badge/-next.js-4377cb?logo=next.js)
+![](https://shields.io/badge/-asp.net-4377cb?logo=dotnet)
+![](https://shields.io/badge/-azure-4377cb?logo=microsoftazure)
+![](https://shields.io/badge/-mongodb-4377cb?logo=mongodb)
+![](https://shields.io/badge/-django-4377cb?logo=django)
+![](https://shields.io/badge/-python-grey?logo=python)
+![](https://shields.io/badge/-cpp-4377cb?logo=cplusplus)
