@@ -2,12 +2,11 @@
 
 *B.Sc. Software Engineer*
 <br>
-I develop web apps and custom software. In this space I practice my code and present some of my work.
-<br>Currently polishing my AI/LLM engineering skills.
+I develop web apps and custom software. In this space, I practice my code and present some of my work. I am currently polishing my AI/LLM engineering skills.
 <br>
 
 ## Hit me up!
-For service inquiries, collabs and live projects, vheck out my [![protfolio](https://shields.io/badge/-🌐portfolio-grey)](https://www.vnikolin.com/)  
+For service inquiries, collabs, and live projects, check out my [![protfolio](https://shields.io/badge/-🌐portfolio-grey)](https://www.vnikolin.com/)  
 Or contact me via: [![linkedin](https://shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/vnikolin/)  [![email](https://shields.io/badge/-email-grey?logo=gmail)](mailto:vnikolin@latino-mind.com?subject=Hey!)
 <br>
 
