@@ -2,7 +2,7 @@
 
 *B.Sc. Software Engineer*
 <br>
-I develop web apps and custom software. In this space, I practice my code and present some of my work. I am currently polishing my AI/LLM engineering skills.
+I develop web apps and custom software. In this space, I practice my code and present some of my work.
 <br>
 
 ## Hit me up!
